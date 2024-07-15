@@ -1,3 +1,4 @@
+After index.html loads everything after that is angular components 
 First when you run ng serve  
 - starts with main.ts
 - goes to app.module.ts
